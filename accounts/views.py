@@ -1,8 +1,11 @@
 from django.shortcuts import render
-from django.urls import reverse_lazy,reverse
+from django.urls import reverse_lazy, reverse
 from . import forms
 from django.views.generic import CreateView
+
+
 # Create your views here.
+
 
 class SignUp(CreateView):
     form_class = forms.UserCreateForm

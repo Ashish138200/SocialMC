@@ -1,6 +1,18 @@
 body {
+  height: auto;
+  overflow:scroll;!important;
   margin: 0;
-  overflow: hidden;
-  background-color: black;
-  color:white;
+}
+a:hover{
+  color: #6C63FF;
+}
+.xp{
+  color: #6C63FF; !important;
+}
+.container{
+  padding:4rem 4rem 1rem 4rem;!important;
+}
+.img-svg{
+  width: 25rem;
+  height: 25rem;
 }
