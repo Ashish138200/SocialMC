@@ -52,13 +52,19 @@ redential of the user if correct it will be logged in and if wrong an error mess
 >![img.png](ss/img_8.png)
 
 ###Logout page
+
 >![img.png](ss/img_9.png)
 
 ###Django Admin Panel
+
 >![img.png](ss/img_10.png)
+
 ###Admin Dashboard
+
 >![img.png](ss/img_11.png)
 >![img.png](ss/img_12.png)
+
 ###Django Users Page
+
 >![img.png](ss/img_13.png)
 >![img.png](ss/img_14.png)

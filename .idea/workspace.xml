@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaa77f8b-cf36-40f1-8dea-07f686ce1ab5" name="Default Changelist" comment="" />
+    <list default="true" id="eaa77f8b-cf36-40f1-8dea-07f686ce1ab5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <workItem from="1628968893497" duration="3384000" />
       <workItem from="1629352192069" duration="4709000" />
       <workItem from="1629382314653" duration="874000" />
-      <workItem from="1629528519309" duration="18361000" />
+      <workItem from="1629528519309" duration="18675000" />
     </task>
     <task id="LOCAL-00001" summary="All commit">
       <created>1629546935809</created>
@@ -72,7 +74,28 @@
       <option name="project" value="LOCAL" />
       <updated>1629634756194</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 2">
+      <created>1629634889409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1629634889409</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit 3">
+      <created>1629634963699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629634963699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit 4">
+      <created>1629635080128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1629635080128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +115,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All commit" />
     <MESSAGE value="Commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+    <MESSAGE value="Commit 2" />
+    <MESSAGE value="Commit 3" />
+    <MESSAGE value="Commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 4" />
   </component>
 </project>
