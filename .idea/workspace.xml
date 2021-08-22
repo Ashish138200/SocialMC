@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaa77f8b-cf36-40f1-8dea-07f686ce1ab5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss/img_9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="eaa77f8b-cf36-40f1-8dea-07f686ce1ab5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +56,7 @@
       <workItem from="1628968893497" duration="3384000" />
       <workItem from="1629352192069" duration="4709000" />
       <workItem from="1629382314653" duration="874000" />
-      <workItem from="1629528519309" duration="18021000" />
+      <workItem from="1629528519309" duration="18361000" />
     </task>
     <task id="LOCAL-00001" summary="All commit">
       <created>1629546935809</created>
@@ -88,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629546935809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 1">
+      <created>1629634756194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629634756194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="All commit" />
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
 </project>

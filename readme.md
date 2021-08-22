@@ -1,6 +1,6 @@
 # SpaceXP
 ### A social media clone project
-_This project is hosted on [AWS EC2](ec2-13-235-75-96.ap-south-1.compute.amazonaws.com)_
+_This project is hosted on [AWS EC2](http://ec2-13-235-75-96.ap-south-1.compute.amazonaws.com)_
 
 __An error while login/ signup OperationalError at /^accounts/login
 attempt to write a readonly database__
