@@ -23,45 +23,42 @@ python manage.py createsuperuser // for creating the superuser
 >###This is the landing page of the web application
 >![image](ss/img.png)
 
->###Sign Up page
+###Sign Up page
 >* The user has to provide his/her display name i.e. username which should be unique, valid email address, and password (must contain 8 character,
 cannot be too similar with username, cannot be a commonly used password).  All this functionality of the form is provided by the Django.
 ![image](ss/img_1.png)
 
->###Log In Page
+###Log In Page
 > * The user can get authenticated from this page by entering his/her username and password and submitting the credentials. Django will verify the c
 redential of the user if correct it will be logged in and if wrong an error message will be displayed.
 ![image](ss/img_2.png)
 
-> ###Home Page
+###Home Page
 >![img.png](ss/img_3.png)
 
-> ###Groups Page
-> * Groups template will help user to see all the available groups with the count of members and posts in the particular group on the right hand sid
-e of the page and on the left hand side is a greeting message with the username of the user. The user can click on any group and can join it. The user can delete posts from the group i
-n which he/she is a member. The user can leave the group of which he/she is part of.
+###Groups Page
+> * Groups template will help user to see all the available groups with the count of members and posts in the particular group on the right hand side of the page and on the left hand side is a greeting message with the username of the user. The user can click on any group and can join it. The user can delete posts from the group in which he/she is a member. The user can leave the group of which he/she is part of.
 ![img.png](ss/img_4.png)
-> ###Create Group Page
+###Create Group Page
 > * Create Group template will help user to create a group with a group name and a description(optional) about the group.
 ![img.png](ss/img_5.png)
-> ###Group Post Page
+###Group Post Page
 >![img.png](ss/img_6.png)
 
-> ###Post Page
-> * Post template will help authenticated user to create a text post and can post it in a particular group by selecting it from the dropdown menu. T
-he post will contain the date and time it was posted and by whom.
+###Post Page
+> * Post template will help authenticated user to create a text post and can post it in a particular group by selecting it from the dropdown menu. The post will contain the date and time it was posted and by whom.
 ![img.png](ss/img_7.png)
-> ###Delete Post Page
+###Delete Post Page
 >![img.png](ss/img_8.png)
 
-> ###Logout page
+###Logout page
 >![img.png](ss/img_9.png)
 
-> ###Django Admin Panel
+###Django Admin Panel
 >![img.png](ss/img_10.png)
-> ###Admin Dashboard
+###Admin Dashboard
 >![img.png](ss/img_11.png)
 >![img.png](ss/img_12.png)
-> ###Django Users Page
+###Django Users Page
 >![img.png](ss/img_13.png)
 >![img.png](ss/img_14.png)
