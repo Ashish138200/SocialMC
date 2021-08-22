@@ -20,7 +20,7 @@ python manage.py createsuperuser // for creating the superuser
 * ##### __Groups:__ This application manages the groups like creation or deletion of a group, member and post count in a particular group. The data of accounts app is used to know that who is logged in and in which group the user is present.
 * ##### __Posts:__ This application handles the posts which are posted by the users and at which date and time. All this is done by the Django models and delivered to the templates using Django views.
 
-> ###This is the landing page of the web application
+>###This is the landing page of the web application
 >![image](ss/img.png)
 
 >###Sign Up page
@@ -28,7 +28,7 @@ python manage.py createsuperuser // for creating the superuser
 cannot be too similar with username, cannot be a commonly used password).  All this functionality of the form is provided by the Django.
 ![image](ss/img_1.png)
 
-> ###Log In Page
+>###Log In Page
 > * The user can get authenticated from this page by entering his/her username and password and submitting the credentials. Django will verify the c
 redential of the user if correct it will be logged in and if wrong an error message will be displayed.
 ![image](ss/img_2.png)
