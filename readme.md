@@ -2,11 +2,15 @@
 ### A social media clone project
 _This project is hosted on [AWS EC2](http://ec2-13-235-75-96.ap-south-1.compute.amazonaws.com)_
 
-__An error while login/ signup OperationalError at /^accounts/login
-attempt to write a readonly database__
-> Tried chmod 777 db.sqlite3
+* __AWS EC2 is used for the deployment and Apache web server is used for running the application__
 
+* __The deployment is successful, but the only error while logging in/ signing up is:__ _An error while login/ signup OperationalError at /^accounts/login
+attempt to write a readonly database_
+> __Attempts done while resolving the error:__<br>
+> Tried chmod 777 db.sqlite3<br>
 > Tired sudo chown 664 db.sqlite3 
+
+###Please download the code and install the required libraries to run this web application successfully.
 ```
 python manage.py migrate
 python manage.py makemigrations

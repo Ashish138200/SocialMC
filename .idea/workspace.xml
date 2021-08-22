@@ -58,7 +58,7 @@
       <workItem from="1628968893497" duration="3384000" />
       <workItem from="1629352192069" duration="4709000" />
       <workItem from="1629382314653" duration="874000" />
-      <workItem from="1629528519309" duration="18675000" />
+      <workItem from="1629528519309" duration="19676000" />
     </task>
     <task id="LOCAL-00001" summary="All commit">
       <created>1629546935809</created>
@@ -95,7 +95,35 @@
       <option name="project" value="LOCAL" />
       <updated>1629635080128</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit 5">
+      <created>1629635161362</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1629635161362</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit 6">
+      <created>1629635194950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629635194950</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit 7">
+      <created>1629635227359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629635227359</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit 8">
+      <created>1629635372885</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629635372885</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +146,10 @@
     <MESSAGE value="Commit 2" />
     <MESSAGE value="Commit 3" />
     <MESSAGE value="Commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 4" />
+    <MESSAGE value="Commit 5" />
+    <MESSAGE value="Commit 6" />
+    <MESSAGE value="Commit 7" />
+    <MESSAGE value="Commit 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 8" />
   </component>
 </project>
