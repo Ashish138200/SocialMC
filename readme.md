@@ -17,7 +17,11 @@ python manage.py makemigrations
 python manage.py migrate // for applying the changes made to the database
 python manage.py runserver // for running the django server
 python manage.py createsuperuser // for creating the superuser
+
+django-admin startproject PROJECTNAME 
+django-admin startapp APPNAME // for creating an app
 ```
+## Functionality of the project:
 
 #### In this project, three apps are used to build this web application completely and each have totally different functionality.
 * ##### __Accounts:__  This application manages the accounts of the users and provide authentication and authorization (superusers only). All the account information is stored through the models in the database and can be managed through the Django admin page. The password of users is encrypted with a hash key which uses AES 256-bit encryption even the super user can’t see password of other users.
@@ -74,3 +78,9 @@ __Django Users Page__
 
 >![img.png](ss/img_13.png)
 >![img.png](ss/img_14.png)
+
+## Roles and Responsibility
+* __Ashish Chaurasia:__ Backend Developer
+* __Paras Bansal:__ Frontend Developer
+* __Tushar Saxena:__ Frontend Developer
+

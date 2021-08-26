@@ -39,9 +39,9 @@ class GroupMember(models.Model):
     # user connects to this individual user
     user = models.ForeignKey(User, related_name='user_groups', on_delete=models.CASCADE)
 
+    # on_delete=models.CASCADE    Deletes the object references too
     def __str__(self):
         return self.user.username
 
     class Meta:
         unique_together = ('group', 'user')
-
